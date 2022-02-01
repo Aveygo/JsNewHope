@@ -10,4 +10,4 @@ Cant vouch for the 'quantum security' of this method, other than the 128 bit ref
 - [ ] Triple check for errors
 
 ### Quick use
-There's an example key exchange between Alice and Bob: testNewHope() and a benchmarking function: benchmark(n_rounds) inside newhope.js
+There's an example key exchange between Alice and Bob: testNewHope() and a benchmarking function: benchmark(n_rounds) inside NewHope.js
