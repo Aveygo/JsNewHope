@@ -303,9 +303,9 @@ var NewHope = new class {
      * 
      * alice sends shareda output to bob
      * bob send sharedb output to alice, computes shared secret
-     * alice computes shared secret
+     * alice computes shared secret with shareda
      * 
-     * AES-256 can be used with shared secret for now at least 
+     * AES-256 can be used with shared secret (for now at least) 
      * 
      * 2e-60 chance that keys do not match (!)
      * 
