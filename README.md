@@ -5,9 +5,9 @@ It has been tested and produces the same output as PyNewHope, given same seed an
 Cant vouch for the 'quantum security' of this method, other than the 128 bit reference in the original [paper](https://eprint.iacr.org/2015/1092.pdf)
 
 ### TODO:
-- [ ] Double check for errors
-- [ ] Create a working example page
-- [ ] Triple check for errors
+- [x] Double check for errors
+- [x] Create a working example page
+- [x] Triple check for errors
 
 ### Quick use
 There's an example key exchange between Alice and Bob: testNewHope() and a benchmarking function: benchmark(n_rounds) inside NewHope.js
