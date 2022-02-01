@@ -8,3 +8,6 @@ Cant vouch for the 'quantum security' of this method, other than the 128 bit ref
 - [ ] Double check for errors
 - [ ] Create a working example page
 - [ ] Triple check for errors
+
+### Quick use
+There's an example key exchange between Alice and Bob, testNewHope(), and a benchmarking function, benchmark(n_rounds)
